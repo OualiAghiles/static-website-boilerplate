@@ -36,4 +36,4 @@ Contributions are welcome. Please clearly explain the purpose of the PR and foll
 Issues can be resolved quickest if they are descriptive and include both a reduced test case and a set of steps to reproduce.
 
 ## Licence
-Licensed under the (MIT License © Genert 2016 - present)[LICENCE].
+Licensed under the [MIT License © 2016 Genert](LICENCE).
