@@ -28,7 +28,7 @@ Use latter for creating production ready build:
 npm run build
 ```
 
-The output is found in *public* folder in root.
+The output is found in **public** folder in root.
 
 ## Contributions & Issues
 Contributions are welcome. Please clearly explain the purpose of the PR and follow the current style.
