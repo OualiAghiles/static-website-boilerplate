@@ -6,6 +6,10 @@
     "es6": true
   },
   "extends": "eslint:recommended",
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0
+  },
   "parserOptions": {
     "sourceType": "module"
   },
@@ -25,6 +29,9 @@
     "semi": [
       "error",
       "always"
+    ],
+    "no-console": [
+      "warn"
     ]
   }
 }
