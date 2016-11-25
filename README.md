@@ -1,7 +1,7 @@
 # Static website boilerplate
 Modern static website boilerplate that comes with:
 * Gulp based build system
-* Webpack with babel for ES2017 support
+* Webpack with Babel for ES2017 support
 * Pug for HTML compiling
 * Image optimization and minimizing for .jpeg .png .svg .gif files
 * Assets revisioning in production build
