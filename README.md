@@ -16,7 +16,7 @@ cd static-website-boilerplate && npm i
 ```
 
 ## Public tasks
-The project comes with two public tasks to execute: start and build.
+The project comes with two public tasks to execute: `start` and `build`.
 
 Use former when developing:
 ```shell
@@ -28,10 +28,12 @@ Use latter for creating production ready build:
 npm run build
 ```
 
+The output is found in *public* folder in root.
+
 ## Contributions & Issues
 Contributions are welcome. Please clearly explain the purpose of the PR and follow the current style.
 
 Issues can be resolved quickest if they are descriptive and include both a reduced test case and a set of steps to reproduce.
 
 ## Licence
-Licensed under the MIT License © Genert 2016 - present.
+Licensed under the (MIT License © Genert 2016 - present)[LICENCE].
